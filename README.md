@@ -3,6 +3,11 @@
 A luxurious, high-end, Awwwards-inspired developer portfolio designed and developed for Fakiah. 
 The project utilizes a modern glassmorphism aesthetic, deep purple and gold accents, and a futuristic dark theme.
 
+---
+[![AI Generated](https://img.shields.io/badge/AI_Generated-Project-blueviolet.svg)](https://github.com/fakiah03)
+
+---
+
 ## Features
 - **Responsive Layout**: Adapts perfectly across Desktop, Laptop, Tablet, and Mobile devices.
 - **Glassmorphism**: Sleek frosted glass UI components.
