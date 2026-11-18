@@ -9,9 +9,10 @@ document.addEventListener('DOMContentLoaded', () => {
         new Typed('.typed-text', {
             strings: [
                 'Software Developer',
+                'Data Analyst',
                 'Full Stack Developer',
-                'PHP Developer',
-                'Laravel Developer',
+                'PHP & MySQL Specialist',
+                'ETL & CRM Architect',
                 'Problem Solver'
             ],
             typeSpeed: 60,
